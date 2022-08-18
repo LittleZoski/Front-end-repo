@@ -1,0 +1,11 @@
+body{
+    background-color: lavender;
+}
+
+#cav {
+    background-color: lavender;
+    border: 6px solid gray;
+    padding: 50px;
+    width:500px;
+    height:700px;
+}
